@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="fxoopproject.jnlp">
+  <information>
+    <title>fxoopproject</title>
+    <vendor>Ahmed Abd El Rahman</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="fxoopproject.jar" size="36664" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="fxoopproject.Fxoopproject"  name="fxoopproject" />
+  <update check="always"/>
+</jnlp>
